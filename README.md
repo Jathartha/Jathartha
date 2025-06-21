@@ -1,54 +1,76 @@
-<h1 align="center">Hi 👋, I'm Jathartha Das</h1>
-<h3 align="center">A passionate Software Engineer | AI & Data Enthusiast</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#ff6347">Jathartha Das</span></h1>
+<h3 align="center">👨‍💻 Software Engineer | 🚀 AI Explorer | 🧠 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+cool+today." alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder GIF">
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 Final-year B.Tech student at VIT Chennai  
-- 🔭 Working on **AI-powered academic tools & Blockchain-based solutions**
-- 💡 Passionate about **Generative AI, Software Engineering, and Data Science**
-- 🛠️ Exploring **Java | Python | SQL | Linux | ML | Salesforce**
-- 💬 Ask me about **Tech, Startups, AI trends, and Project ideas**
-- 📫 Reach me at: `dasjathartha@gmail.com`
+### 🌟 About Me
+
+🎓 Final Year @ VIT Chennai  
+💡 I build AI tools, automate cool stuff & explore blockchain-based systems  
+🎯 Currently learning: **Advanced ML, Salesforce Dev, and Edge Computing**  
+🌍 Dream: Contribute to tech that solves real-world problems  
+💬 Talk to me about: *AI, Blockchain, Startups, Gym, or Coding Memes*
 
 ---
 
-### 💼 Tech Stack
+### 🛠 Tech Playground
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,java,linux,sql,git,github,html,css,js,r,react&perline=7" />
 </p>
 
 ---
 
-### 🔥 Recent Projects
+### 🚀 Projects That Got Me Hyped
 
-- 🧾 **Big Data Analytics for E-Governance**
-- 🧬 **AI Chatbot for Academic Help**
-- 🐘 **Blockchain-based Wildlife Tracker**
-- 💡 **CampusCart - Campus Marketplace**
-- 📊 **Stock Market Prediction (ML in R)**
+| Project 🚧 | What’s it about 🔍 | Tech Stack ⚙️ |
+|-----------|-------------------|---------------|
+| 🐘 **Wildlife Tracker (IoT + Blockchain)** | Tracking endangered species with ESP8266 & Ganache | IoT, Python, Ethereum |
+| 🎓 **AI Academic Chatbot** | Helping students with coursework using GenAI | Python, OpenAI, Flask |
+| 📈 **Stock Market Prediction** | Predictive analytics using Machine Learning in R | R, ML, DataViz |
+| 🏫 **CampusCart** | A student-to-student marketplace | HTML, JS, Firebase |
+| 📊 **Big Data E-Gov** | Data insights for better governance | Python, Pandas, ML |
 
 ---
 
-### 🌐 Connect with Me
+### 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://linkedin.com/in/jathartha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dasjathartha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://jatharthadas.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=jatharthadas&show_icons=true&theme=tokyonight&count_private=true&hide=stars"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jatharthadas&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatharthadas&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-### ⚡ Fun Fact
-> I love lifting weights 💪, solving bugs 🐛, and exploring how tech shapes the future 🚀.
+### 🌐 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/jathartha"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dasjathartha@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://jatharthadas.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧠 Fun Facts
+
+- 🏋️ I lift weights like I lift bugs – consistently and with form  
+- 🎮 I game a little, code a lot  
+- 🐱 Cat person by heart, but love all animals  
+
+---
+
+### 🪄 Bonus: Quote I Live By
+
+> *“The best way to predict the future is to invent it.” – Alan Kay*
+
+---
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Joke of the day" />
+</p>
