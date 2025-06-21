@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#ff6347">Jathartha Das</span></h1>
-<h3 align="center">👨‍💻 Software Engineer | 🚀 AI Explorer | 🧠 Lifelong Learner</h3>
+<h3 align="center">👨‍💻 Software Engineer in the making | 🚀 AI Explorer | 🧠 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder GIF">
@@ -13,14 +13,14 @@
 💡 I build AI tools, automate cool stuff & explore blockchain-based systems  
 🎯 Currently learning: **Advanced ML, Salesforce Dev, and Edge Computing**  
 🌍 Dream: Contribute to tech that solves real-world problems  
-💬 Talk to me about: *AI, Blockchain, Startups, Gym, or Coding Memes*
+💬 Talk to me about: *AI, Blockchain, Web Dev, Gym, or Coding Memes*
 
 ---
 
 ### 🛠 Tech Playground
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,linux,sql,git,github,html,css,js,r,react&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,linux,git,github,html,css,js,r,react&perline=7" />
 </p>
 
 ---
@@ -34,16 +34,6 @@
 | 📈 **Stock Market Prediction** | Predictive analytics using Machine Learning in R | R, ML, DataViz |
 | 🏫 **CampusCart** | A student-to-student marketplace | HTML, JS, Firebase |
 | 📊 **Big Data E-Gov** | Data insights for better governance | Python, Pandas, ML |
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatharthadas&show_icons=true&theme=tokyonight&count_private=true&hide=stars"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jatharthadas&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatharthadas&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
@@ -70,7 +60,3 @@
 > *“The best way to predict the future is to invent it.” – Alan Kay*
 
 ---
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Joke of the day" />
-</p>
