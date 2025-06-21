@@ -11,7 +11,7 @@
 
 🎓 Final Year @ VIT Chennai  
 💡 I build AI tools, automate cool stuff & explore blockchain-based systems  
-🎯 Currently learning: **Advanced ML, Salesforce Dev, and Edge Computing**  
+🎯 Currently learning: **Advanced ML and Salesforce Dev**  
 🌍 Dream: Contribute to tech that solves real-world problems  
 💬 Talk to me about: *AI, Blockchain, Web Dev, Gym, or Coding Memes*
 
@@ -50,13 +50,6 @@
 ### 🧠 Fun Facts
 
 - 🏋️ I lift weights like I lift bugs – consistently and with form  
-- 🎮 I game a little, code a lot  
 - 🐱 Cat person by heart, but love all animals  
-
----
-
-### 🪄 Bonus: Quote I Live By
-
-> *“The best way to predict the future is to invent it.” – Alan Kay*
 
 ---
