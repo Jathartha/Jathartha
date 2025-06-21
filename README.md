@@ -13,7 +13,7 @@
 - 💡 Passionate about **Generative AI, Software Engineering, and Data Science**
 - 🛠️ Exploring **Java | Python | SQL | Linux | ML | Salesforce**
 - 💬 Ask me about **Tech, Startups, AI trends, and Project ideas**
-- 📫 Reach me at: `your.email@example.com`
+- 📫 Reach me at: `dasjathartha@gmail.com`
 
 ---
 
